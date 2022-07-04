@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background: #F8F8F8;
+    width: 100%;
+    height: 102px;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+}
+.nav__location{
+    display: flex;
+    align-items: center;
+}
+.nav {
+    display: flex;
+}
+.nav__location a{
+    text-decoration: none;
+    color: black;
+    font-size: 4.5vh;
+    font-weight: bolder;
+
+}
+.nav__contact{
+    justify-content: left;
+}
