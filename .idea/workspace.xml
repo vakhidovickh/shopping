@@ -23,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunDashboard">
@@ -48,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656938704450</updated>
       <workItem from="1656938706721" duration="5383000" />
+      <workItem from="1657032182935" duration="20000" />
     </task>
     <servers />
   </component>
